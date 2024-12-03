@@ -1,0 +1,133 @@
+---
+title: "nmds_indicators"
+output: pdf_document
+date: "2024-06-17"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(here)
+library(vegan)
+library(tidyverse)
+library(ggplot2)
+
+#Set the path to data
+here::i_am("code/nmds_indicators.Rmd")
+
+#Load the data
+indicators <- read.csv(here("data/indicators.csv"), sep=";")
+
+#Select indicator variables of interest
+indic <- indicators %>%
+  select(., c(4:17, 19:20, 22, 24:25, 27:28)) %>%
+drop_na()
+
+#convert non categorical variables into dummie variables (separate each category into different cols)
+ind <- model.matrix(~. -1, data = indic) %>% 
+  as.data.frame()
+
+#Create a simetrical distance matrix (here euclidean for first approach but need to revise other distance such as Gower and Jackard) 
+dist <- dist(ind, method = "binary") #Bianry method == Jacard
+
+#Run NMDS
+set.seed(2)
+nmds <- metaMDS(dist, distance = "bray", k = 2, trymax = 100)
+
+#extract NMDS scores (x and y coordinates)
+data.scores = as.data.frame(scores(nmds))
+
+#add columns to data frame 
+data.scores$Realm = indicators$Realm
+data.scores$Type.of.organism = indicators$Type.of.organism
+data.scores$Type.of.organism.2 = indicators$Type.of.organism.2
+data.scores$EBV.name = indicators$EBV.name
+data.scores$Spatial.resolution.unit = indicators$Spatial.resolution.unit
+data.scores$EBV.class = indicators$EBV.class
+data.scores$Aspect.of.variation = indicators$Aspect.of.variation
+
+```
+
+PLOTS
+```{r}
+#Plot colured by aspect of variation
+gg_aspect <- ggplot(data = data.scores, aes(x = NMDS1, y = NMDS2)) + 
+     geom_point(aes(colour = Aspect.of.variation), size = 3, alpha = 0.5) + 
+     geom_text(aes(label = EBV.name), size = 1, vjust = -0.5, hjust = 0.5) + 
+     theme(axis.title = element_text(size = 10, face = "bold", colour = "grey30"), 
+           panel.background = element_blank(), 
+           panel.border = element_rect(fill = NA, colour = "grey30"), 
+           axis.ticks = element_blank(), 
+           axis.text = element_blank(), 
+           legend.key = element_blank(), 
+           legend.title = element_text(size = 10, face = "bold", colour = "grey30"), 
+           legend.text = element_text(size = 9, colour = "grey30")) +
+     labs(colour = "Aspect.of.variation")
+     
+#Plot colured by aspect of Realm
+gg_realm <- ggplot(data = data.scores, aes(x = NMDS1, y = NMDS2)) + 
+     geom_point(aes(colour = Realm), size = 3, alpha = 0.5) + 
+     geom_text(aes(label = EBV.name), size = 1, vjust = -0.5, hjust = 0.5) + 
+     theme(axis.title = element_text(size = 10, face = "bold", colour = "grey30"), 
+           panel.background = element_blank(), 
+           panel.border = element_rect(fill = NA, colour = "grey30"), 
+           axis.ticks = element_blank(), 
+           axis.text = element_blank(), 
+           legend.key = element_blank(), 
+           legend.title = element_text(size = 10, face = "bold", colour = "grey30"), 
+           legend.text = element_text(size = 9, colour = "grey30")) +
+     labs(colour = "Realm")
+
+#Plot colured by aspect of Type of organism (note that Type.of.organism.2 is a simplification of Type.of.organism)
+gg_organism <- ggplot(data = data.scores, aes(x = NMDS1, y = NMDS2)) + 
+     geom_point(aes(colour = Type.of.organism.2), size = 3, alpha = 0.5) + 
+     #geom_text(aes(label = EBV.name), size = 1, vjust = -0.5, hjust = 0.5) + 
+     theme(axis.title = element_text(size = 10, face = "bold", colour = "grey30"), 
+           panel.background = element_blank(), 
+           panel.border = element_rect(fill = NA, colour = "grey30"), 
+           axis.ticks = element_blank(), 
+           axis.text = element_blank(), 
+           legend.key = element_blank(), 
+           legend.title = element_text(size = 10, face = "bold", colour = "grey30"), 
+           legend.text = element_text(size = 9, colour = "grey30")) +
+     labs(colour = "Type.of.organism.2")
+
+
+gg_aspect
+gg_realm
+gg_organism
+
+stressplot(nmds)
+
+
+ordiplot(nmds,type="n")
+orditorp(nmds,display="species",col="red",air=0.01)
+orditorp(nmds,display="sites",cex=1.25,air=0.01)
+
+
+```
+
+
+Try neural network ordination (from Derek)
+```{r}
+library(h2o)
+library(vegan)
+library(dplyr)
+library(ggplot2)
+library(cluster)
+library(Rtsne)
+library(patchwork)
+
+#Select indicator variables of interest
+indic <- indicators %>%
+  select(., c(4:17, 19:20, 22, 24:25, 27:28)) %>%
+drop_na()
+
+Data <- indicators %>%
+  select(., c(4:17, 19:20, 22, 24:25, 27:28)) %>%
+drop_na()
+  
+
+```
