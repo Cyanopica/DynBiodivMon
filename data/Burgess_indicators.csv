@@ -1,0 +1,266 @@
+Metric;Static (S) or Temporal (T) Data Layer, or Not Available/Applicable (NA);Pressure (P), State(S), Response (R), Benefit (B) ;Top-down (T), Bottom-up (B), Neither (0), Unknown (U) [State metrics only];Significance (S), Intactness (I), Neither (0), Unknown (U) [State metrics only];Realm;Composition;Function;Structure;Biosfere level;Ecosystem level;Community level;Species level;Functional group level;Individual level;Genome level;Chromosome level;Gene level;Enzyme level;Type of organism;Business Use
+A global 0.05° dataset for gross primary production of sunlit and shaded vegetation canopies from 1992 to 2020;T;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+A Global Database of Field-observed Leaf Area Index in Woody Plant Species, 1932-2011;T;S;B;0;Terrestrial;0;0;0;1;1;0;1;1;0;0;0;0;0;Plants;N
+A global database of land management, land-use change and climate change effects on soil organic carbon;T;S,P;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+A Global Map of Natural Capital (new version in development);S;S,B;0;0;Terrestrial and Marine;1;1;0;1;1;0;0;0;0;0;0;0;0;Not applies;N
+A practical approach to measuring the biodiversity impacts of land conversion;T;S,P;T;I;Terrestrial;1;0;0;0;1;0;0;0;0;0;0;0;0;Plants;N
+Aboveground Biomass Carbon Density 2010;S;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Above-ground biomass stock in forest (tonnes/ha);T;S,B;B;0;Terrestrial;0;1;0;0;1;0;0;0;0;0;0;0;0;Plants;N
+Agrobiodiversity Index (ABDI);NA;S,B;B;0;Terrestrial;1;0;0;0;1;0;0;1;0;0;0;0;0;Plants;Y
+Amphibian phylogenetic diversity;S;S;B;S;Freshwater;1;0;0;1;1;1;1;1;0;0;0;0;0;Amphibians;N
+Annual Tropical Primary Tree Cover Loss (Ha);T;S,P;B;I;Terrestrial;0;0;1;0;1;0;0;0;0;0;0;0;0;Plants;N
+Area of Habitat (AoH);S;S;B;S;Terrestrial;1;0;0;1;1;1;1;1;0;0;0;0;0;Plants;N
+Area of mangroves;T;S;B;0;Terrestrial and Marine;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Area of wetlands (Spatial extent of vegetated wetlands);NA;S;B;0;Freshwater and Marine;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Bamboo Distribution;S;S;B;0;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Belowground Biomass Carbon Density 2010;S;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Benchmark map of forest carbon stocks in tropical regions across three continents;S;S;B;0;Terrestrial;0;1;0;0;1;0;0;0;0;0;0;0;0;Plants;N
+BERI v2: Bioclimatic Ecosystem Resilience Index: 30s global time series;T;S,P;B;I;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+BIEN plant data (observations, traits, geographic ranges, plots);S;S;B;0;Terrestrial;1;0;0;1;1;1;1;1;0;0;0;0;0;Plants;N
+Biodiversity Habitat Index (BHI);T;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+Biodiversity Hotspots Revisited;S;S;T;S;Terrestrial;1;0;0;0;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+Biodiversity Intactness Index;T;S;T;I;Terrestrial;1;1;1;1;1;1;1;1;0;0;0;0;0;Plants Animals ;Y
+Biodiversity Intactness Index Change 2000-2015;T;S;T;I;Terrestrial;1;1;1;1;1;1;1;1;0;0;0;0;0;Plants Animals ;Y
+Biomass Carbon Stock of Global Grassland Ecosystems;T;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Bird phylogenetic diversity;S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Birds;N
+Carbon Storage in Potential Natural Vegetation;S;S,B;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+CCI Biomass;T;S;B;0;Terrestrial;0;1;0;0;1;0;0;0;0;0;0;0;0;Plants;N
+Centres of Plant Diversity;S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;1;0;0;0;Plants;N
+Change in Aboveground Woody Carbon Density 2003-2014;S;S;B;I;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Changes in SOC stocks ;NA;S;T;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Chloris Biomass;T;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+CII: Contextual Intactness Index (from BILBI/Human Footprint);S;S;T;I;Terrestrial;0;0;1;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Continuous Global Mangrove Forest Cover;T;S;B;0;Terrestrial and Marine;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Crop Suitability Change 1981-2100;T;S,B;T;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Digital Soil Map of the World;S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Distribution of earthworm diversity;S;S;B;0;Terrestrial;1;0;0;1;1;0;1;1;0;0;0;0;0;Anelids;N
+Dominant Land Cover and Use;S;S,P;B;0;Terrestrial;0;0;1;1;1;1;0;1;0;0;0;0;0;Plants;N
+Drivers and trends of global soil microbial carbon over two decades;S;S,P;U;I;Terrestrial;1;0;0;1;1;1;0;0;0;0;0;0;0;Microbes;N
+Dynamic habitat indices (DHI);S;S;B;0;Terrestrial;0;1;0;1;1;0;0;1;0;0;0;0;0;Plants;N
+Dynamic World land cover and land use database;NA;S;T;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Earth's Tidal Wetlands;S;S;U;I;Freshwater and Marine;0;0;1;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Ecological integrity through areas with overlapping distributions of megaherbivores and top predators;S;S;B;S;Terrestrial;1;1;0;0;1;0;0;0;0;0;0;0;0;Mammals;N
+Ecoregion Intactness metric;T;S,P;T;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Ecoregions 2017;S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Ecosystem Integrity Index (EII);NA;S,P;T;I;Terrestrial;1;1;1;1;1;0;0;0;0;0;0;0;0;Plants Animals ;Y
+EDGE Index;NA;S;B;S;Terrestrial and Marine;1;0;0;0;1;1;1;1;0;0;0;0;0;Animals;N
+EDGE2 (updated EDGE);S;S;B;S;Terrestrial and Marine;1;0;0;0;1;1;1;1;0;0;0;0;0;Animals;N
+Endemic Bird Areas;S;S;B;S;Terrestrial;1;0;0;0;1;1;1;1;0;0;0;0;0;Birds;N
+ESA CCI Land Cover (1992-2020);T;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;
+ESA CGLS Land Cover 2015-2019 (100m);T;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+ESA WorldCover 2020;T;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Esri 2020 Land Cover 10m (IO);S;S;0;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Expected loss of Phylogenetic Diversity ;T;S;B;S;Terrestrial Marine Freshwater;1;0;0;0;0;0;1;0;0;1;0;0;0;All;N
+Extents/areas of 59 standardized ecosystem types globally;T;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Farmland Biodiversity Score;NA;S;B;0;Terrestrial;1;0;0;0;1;1;0;0;0;0;0;0;0;Not applies;N
+Farmland Bird Index (% of annual change);T;S;B;I;Terrestrial;1;0;0;0;0;1;0;1;0;0;0;0;0;Birds;N
+Flowering plant phylogentic and taxonomic diversity;S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Forest area as a percentage of total land area ;T;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Forest Connectivity (2013);S;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Forest Fragmentation - 2000 (500m - 25pct - 0km);S;S,P;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Forest Fragmentation Index;T;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Forest Fragmentation Index and Dynamic Forest Fragmentation Index;;S;T;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;Y
+Forest Integrity Project: Forest Canopy Height;S;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Forest Integrity Project: Forest Structural Condition Index (SCI);S;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Forest Integrity Project: Forest Structural Integrity Index (FSII);S;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Forest Landscape Integrity Index;S;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+GEDI Biomass Map;T;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Generalised Biogeographical Realms;S;S;0;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Generalised Original and Current Forest;S;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+GLAD Global land cover and land use 2019;S;S,P;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+GLAD Global Land Cover and Land Use Change 2000-2020;T;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global 30m Cropland Extent 2015;S;S,P;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Above- and Below-ground Living Biomass Carbon Density;S;S;B;0;Terrestrial;0;1;0;1;1;1;0;0;0;0;0;0;0;Plants;N
+Global Agricultural Lands: Croplands, 2000;S;S,P;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Agricultural Lands: Pastures, 2000;S;S,P;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Annual Gross Tree Cover Loss (Ha);NA;S,P;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Assessment of Human-induced Soil Degradation (GLASOD);S;S,P;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Biomass Carbon Map for the Year 2000;S;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Distribution of Earthworm Diversity;S;S;T;0;Terrestrial;1;0;0;1;1;1;0;0;0;0;0;0;0;Animal;N
+Global distribution of soil phosphorus retention potential;S;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Global Ecological Zones;S;S;T;0;Terrestrial Freshwater ;0;0;1;1;0;0;0;0;0;0;0;0;0;Not applies;N
+Global Ecosystem Restoration Index;T;S,R;T;I;Terrestrial;0;1;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Forest Biomass;S;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Forest Change;T;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Forest Cover - Gain (2000-2012);T;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Forest Cover - Year of Loss (2000-2019);T;S,P;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Forest Watch: Forest Biodiversity Importance;S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+Global Forest Watch: Forest Biodiversity Intactness;S;S;B;I;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+Global Gridded Surfaces of Selected Soil Characteristics (IGBP-DIS);S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Intertidal Change;T;S;B;I;Marine Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Global Land Cover 2000 (GLC 2000);S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Land Cover FCS30 - 2020;S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Land Productivity Dynamic Dataset Product;S;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Mangrove Height and Biomass Index (NASA);S;S;B;0;Marine Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Mangrove Soil Carbon;S;S;B;0;Marine Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Map of Canopy Height;S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Map of Phylogenetic Diversity;S;S;B;S;Terrestrial and Marine;1;0;0;1;1;0;0;0;0;0;0;0;0;Animal;N
+Global maps of Above-ground Biomass (AGB) from four epochs adjusted for map bias.;T;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global PALSAR-2/PALSAR Forest/Non-Forest Map 2015-2021;T;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Patterns and Drivers of Bee Distribution;S;S;B;0;Terrestrial;1;0;0;1;1;1;0;0;0;0;0;0;0;Animal;N
+Global patterns and predictors of soil microbial biomass carbon, nitrogen, and phosphorus in terrestrial ecosystems;S;S;T;0;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Microbes;N
+Global Register of Migratory Species (GROMS);S;S;B;0;Terrestrial Marine Freshwater;1;0;0;1;1;1;1;0;0;0;0;0;0;Animal;N
+Global saltmarsh extent;S;S;B;0;Terrestrial;0;0;1;1;0;0;0;0;0;0;0;0;0;Not applies;N
+Global Soil Biodiversity map;S;S;B;0;Terrestrial;0;1;0;1;0;0;0;0;0;0;0;0;0;Microbes;N
+Global spatial dataset of mangrove genus distribution in seaward and riverine margins.;S;S;B;0;Terrestrial and Marine;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global stocks of Irrecoverable Carbon;NA;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Global terrestrial net primary productivity trends (gC/m2/yr) from 2000 to 2009;S;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global trends in mangrove forest fragmentation;T;S;B;I;Terrestrial and Marine;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Vegetation Health Products - Vegetation Health Index;T;S,P;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Global Wetlands (1993);S;S;B;0;Terrestrial Freshwater ;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Global Wetlands: Tropical and Subtropical Wetlands Distribution;S;S;B;0;Terrestrial Freshwater ;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Global Wilderness;S;S;B;I;Terrestrial;0;1;1;1;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+GlobBiomass global above-ground biomass and growing stock volume datasets;S;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+GlobCover 2005, 2009;T;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+GlobeLand30;T;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+GLOSIS - Global Soil Organic Carbon;S;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Gross ecosystem product (GEP);NA;S;T;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Gross primary productivity;NA;S;T;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+High Biodiversity Wilderness Areas (HBWAs);S;S;T;S,I;Terrestrial;1;0;0;0;1;0;0;0;0;0;0;0;0;Plants and animals;N
+HILDA, HIstoric Land Dynamics Assessment + Global Land Use Change between 1960 and 2019;T;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Historical (1901-1920), contemporary (1979-2013), and future (2061-2080) terrestrial life zones;T;S;T;I;Terrestrial;1;0;0;1;0;0;0;0;0;0;0;0;0;Not applies;N
+ICESat-2 Boreal Biomass 2020 Map;T;S;B;0;Terrestrial;0;1;0;0;1;0;0;0;0;0;0;0;0;Plants;N
+ICRAF-ISRIC Global VNIR Soil Spectral Library;S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+IFC PS6 Global Critical Habitat Screening Layer;S;S;B;S;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Red list species;N
+IFC PS6 Natural and Modified Habitat Screening Layer;S;S,P;T;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;Y
+Important Bird Areas (IBAs);S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Birds;N
+"In situ and ex situ records-based index of within-species genetic diversity
+";NA;S;B;0;Terrestrial Marine Freshwater;1;0;0;0;0;0;1;0;0;0;0;1;0;Plants Animals ;N
+Intact Forest Landscapes (IFLs);T;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Internationally Important Wetlands;T;S;B;S;Terrestrial and Marine;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+IUCN Green List;T;S;B;I;Terrestrial Marine Freshwater;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;N
+IUCN Rarity-Weighted Richness;S;S;B;S;Terrestrial Marine Freshwater;1;0;0;0;1;0;0;0;0;0;0;0;0;Plants Animals ;Y
+IUCN Rarity-Weighted Richness Amphibians;S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+IUCN Rarity-Weighted Richness Birds;S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Birds;N
+IUCN Rarity-Weighted Richness Combined;S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants and animals;N
+IUCN Rarity-Weighted Richness Mammals;S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Mammals;N
+IUCN Rarity-Weighted Richness Reptiles;S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Reptiles;N
+IUCN Species Richness;S;S;B;0;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+IUCN Species Richness Amphibians;S;S;B;0;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Amphibians;N
+IUCN Species Richness Birds;S;S;B;0;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Birds;N
+IUCN Species Richness Mammals;S;S;B;0;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Mammals;N
+IUCN Species Richness Reptiles;S;S;B;0;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Reptiles;N
+IUCN Threatened Species Richness;S;S,P;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+IUCN Threatened Species Richness Amphibians;S;S,P;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Amphibians;N
+IUCN Threatened Species Richness Birds;S;S,P;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Birds;N
+IUCN Threatened Species Richness Combined;S;S,P;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+IUCN Threatened Species Richness Mammals;S;S,P;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Mammals;N
+IUCN Threatened Species Richness Reptiles;S;S,P;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Reptiles;N
+JPL 2020 Global Biomass Dataset;T;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Karst Regions of the World (KROW);S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Key Biodiversity Areas;S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+Land degradation in global arable lands;S;S,P,B;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Last of the Wilds (1993);S;S;T;I;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Last of the Wilds (2009);S;S;T;I;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+LBI (Long Term Biodiversity index) ;S;S;B;I;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants Animals ;Y
+Live Cover via Vegetation Continuous Fields;T;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Live Vegetation Biomass Carbon for the 21st Century (2000-2019);T;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Living Planet Index (LPI);T;S;B;I;Terrestrial Marine Freshwater;1;0;0;1;1;1;1;1;0;0;0;0;0;Animal;N
+Living Planet Index (LPI) - Forest Specialists;T;S;B;I;Terrestrial;1;0;0;1;1;1;1;1;0;0;0;0;0;Animal;N
+Living Planet Index (LPI) for utilised species;T;S,P;B;I;Terrestrial Marine Freshwater;1;0;0;1;1;1;1;1;0;0;0;0;0;Animal;N
+LUCAS (Land Use and Coverage Area frame Survey);T;S,P;B;0;Terrestrial;0;0;1;0;1;0;0;0;0;0;0;0;0;Plants;N
+Madingley Model of Functional Dissimilarity;S;S;T;0;Terrestrial Marine Freshwater;0;1;0;1;1;1;0;0;0;0;0;0;0;Plants Animals ;N
+Madingley Model of Functional Richness;S;S;T;0;Terrestrial Marine Freshwater;0;1;0;1;1;1;0;0;0;0;0;0;0;Plants Animals ;N
+Major Agricultural Systems;S;S;T;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Mammalian Genetic Diversity;S;S;B;S;Terrestrial Marine Freshwater;1;0;0;1;1;1;1;1;0;1;0;1;0;Mammals;N
+Map of Three Global Conditions: Cities and Farms, Shared Lands, and Large Wild Areas;S;S;T;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Mapping global cropland and field size;S;S,B;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Mapping the irrecoverable carbon in Earth's ecosystems;S;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Mean regional bird diversity (cSAR);S;S;T;I;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants;Y
+Mean Species Abundance (MSA);T;S;T;I;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants Animals ;Y
+MODIS Gross Primary Production (GPP) 2000-2020;T;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+MODIS Land Cover Dynamics (Land Cover Dynamics Yearly L3 Global 1km);T;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+MODIS NDVI 2000 - 2020;T;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+MODIS Net Primary Production (NPP) 2000-2019;T;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+MODIS Terra+Aqua Combined Land Cover (Land Cover Type Yearly L3 Global 500m);T;S;B;I;Terrestrial Marine Freshwater;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+MODIS/Aqua+Terra Global Flood Product L3 NRT 250m;S;S;B;0;Terrestrial Marine Freshwater;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+MODIS/Terra Vegetation Indices 16-Day L3 Global 250 m SIN Grid (MOD13Q1 v006);S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Mountain Green Cover Index;T;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Multidimensional Biodiversity Index (MBI);NA;S,B;0;S,I;Terrestrial Freshwater;1;1;0;0;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+NatureMap - Areas of global significance for restoration;S;S,R;T;S;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+NatureMap - Forest Biodiversity Intactness Index;S;S;T;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+NatureMap - Global Habitats;T;S;T;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+NatureMap - Live Biomass Carbon Density;S;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+NatureMap: Areas of global importance for conserving terrestrial biodiversity, carbon, and water;S;S;B;S;Terrestrial;1;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+NatureMap: Rarity-weighted richness;S;S;B;S;Terrestrial Marine Freshwater;1;0;0;1;1;0;0;0;0;0;0;0;0;NA;Y
+NatureMap: Total vulnerable carbon density (beta version);S;S;B;0;Terrestrial;0;1;0;1;0;0;0;0;0;0;0;0;0;Plants;N
+NatureMap: Vulnerable soil organic carbon density;T;S;B;0;Terrestrial;0;1;0;1;0;0;0;0;0;0;0;0;0;Plants;N
+Net primary productivity;T;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Net Primary Productivity (1 month - Terra/MODIS);S;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+NOAA Climate Data Record (CDR) of AVHRR Normalized Difference Vegetation Index (NDVI);T;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Number of species extinctions (birds and mammals);T;S,P;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Number of species with Green Status (IUCN Red List) assessments of ‘Recovered’;T;S,R;B;I;Terrestrial;1;0;0;1;1;1;0;1;0;0;0;0;0;Mammals birds;N
+Number of threatened species recorded in BGCI’s ThreatSearch database;NA;S;B;S;Terrestrial;1;0;0;0;1;1;1;1;0;0;0;0;0;Plants;N
+Number of Wetlands of International Importance;T;S;B;S;Terrestrial and Marine;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Number of zoonotic diseases in wildlife;T;S;B;0;Terrestrial;1;1;0;1;1;1;0;0;0;0;0;0;0;Animals;N
+Percentage of cropped landscapes with at least 10% natural or semi-natural vegetation within 1km;T;S;T;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Percentage of threatened species that are improving in status according to the Red List;S;S,R;B;S;Terrestrial Marine Freshwater;1;0;0;1;1;1;0;0;0;0;0;0;0;Plants;N
+Persistence Score/LIFE;T;S,P,R;B;S;Terrestrial;1;0;0;0;1;0;0;0;0;0;0;0;0;Animals;N
+PHYLACINE 1.2: The Phylogenetic Atlas of Mammal Macroecology;S;S;B;S;Terrestrial;1;0;0;1;1;1;1;1;0;0;0;0;0;Animals;N
+Phylogenetic Diversity Indicator (update to IPBES version);T;S;B;0;Terrestrial Marine Freshwater;1;0;0;0;0;1;1;0;0;0;0;0;0;Plants Animals ;N
+Potential distribution of land cover classes (Potential Natural Vegetation) at 250 m spatial resolution;S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Potentially disappeared fraction (PDF);S;S,P;T;I;Terrestrial;1;0;0;0;1;1;0;0;0;0;0;0;0;Not applies;Y
+Predicting plant conservation priorities on a global scale;S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Primary forest deforestation;S;S,P;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Proportion of agricultural area under productive and sustainable agriculture;T;S,R;T;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Proportion of land that is degraded over total land area;T;S,P;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Proportion of populations maintained within species;S;S;B;I;Terrestrial Marine Freshwater;1;0;0;0;0;0;1;0;0;0;0;1;0;Plants Animals ;N
+Proportion of river basins, in a country, where environmental flows are provided in accordance with the e-flow methodology of SDG indicator 6.4.2;NA;S;B;I;Freshwater;0;0;1;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Proportion of total land area that is a natural/semi-natural ecosystem;T;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Protected Area Connectedness Index (PARC-Connectedness);T;S,R;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Protected Area coverage of Intact Wilderness and Additional Climate Stabilization Areas;T;S,R;T;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Protected Area Isolation Index (PAI);;S,R;T,B;S;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;
+Protected Area Representativeness Index;T;S,R;T;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Protected Areas Network Metric (ProNet);;S,R;T;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;
+Protected Connected (Protconn);T;S,R;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Red List Index;T;S;B;S;Terrestrial Marine Freshwater;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;Y
+Red List Index (forest-dependent species);T;S;B;S;Terrestrial;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Red List Index (impacts of invasive alien species);T;S,P;B;S;Terrestrial Marine Freshwater;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Red List Index (impacts of pollution);T;S,P;B;S;Terrestrial Marine Freshwater;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Red List Index (internationally traded species);T;S,P;B;S;Terrestrial Marine Freshwater;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Red List Index (migratory species);T;S;B;S;Terrestrial Marine Freshwater;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Red List Index (pollinating species);T;S,B;B;S;Terrestrial Marine Freshwater;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Red List Index (species used for food and medicine);T;S,B;B;S;Terrestrial Marine Freshwater;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Red List Index (trends driven by utilisation);T;S,P;B;S;Terrestrial Marine Freshwater;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Red List Index (wetland species);T;S;B;S;Marine Freshwater;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Red List Index (wild relatives of domesticated animals);T;S,B;B;S;Terrestrial Marine Freshwater;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Red list Index for crop wild relatives;T;S,B;B;S;Terrestrial;1;0;0;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Red List of Ecosystems;T;S;B;S;Terrestrial Marine Freshwater;0;0;1;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Relative Magnitude of Fragmentation (RMF);T;S;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+SEED Biocomplexity Index;S;S;T;U;Terrestrial;1;1;1;1;1;0;0;0;0;0;0;0;0;Plants Animals ;Y
+Species abundance based biodiversity intactness (PREDICTS);T;S;T;I;Terrestrial;1;1;0;1;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+Species Habitat Index (SHI);T;S;B;0;Terrestrial;0;0;1;0;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+Species Sensitivity Distribution (SSD);S;S;T;0;Marine;0;0;0;0;0;0;1;0;0;0;0;0;0;Animals;N
+Species threat abatement and restoration (STAR) metric;S;S,P,R;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Animals;N
+Suitability of Global Land Area for Pasture (FGGD);S;S,B;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Terrestrial Ecoregions of the World;S;S;T;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+Terrestrial Wilderness (2009);S;S;T;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants Animals ;N
+The Global Peatland Database (GPD);S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+The proportion of populations within species with an effective population size > 500*;T;S;B;I;Terrestrial Marine Freshwater;1;0;0;0;0;0;1;0;0;0;0;0;0;Plants Animals ;N
+Threatened Island Biodiversity Database (TIB);S;S;B;S;Terrestrial;0;0;1;0;1;0;0;0;0;0;0;0;0;Not applies;N
+Tiger Conservation Landscapes (2006);S;S;B;0;Terrestrial;0;0;1;0;1;0;1;0;0;0;0;0;0;Animals;N
+Tiger Conservation Landscapes (TCLs);S;S;B;I;Terrestrial;0;0;1;0;1;0;1;0;0;0;0;0;0;Animals;N
+TNC Global biophysical typology of mangroves;T;S;B;0;Terrestrial and Marine;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+TNC Last Chance Mammal Areas;S;S;B;S;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Mammals;N
+Tree Cover Loss;T;S,P;B;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Trees in Mosaic Landscapes;S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Trends in mangrove extent;T;S;B;I;Terrestrial and Marine;0;1;1;0;1;0;0;0;0;0;0;0;0;Plants;N
+Tropical Dry Forests;S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Tropical Montane Cloud Forest Sites;S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+UN FAO Global Land Cover Network (GLC-SHARE);S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Vegetation Carbon Stock Corridors;T;S;T;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+VODCA2GPP – a new, global, long-term (1988–2020) gross primary production dataset from microwave remote sensing;T;S;B;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;N
+Wetland Extent Trends Index;T;S;T;I;Terrestrial Marine Freshwater;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+Wild Bird Index (farmland specialists birds);T;S;B;I;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Birds;N
+Wilderness Lost (1993-2009);T;S;T;I;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+WISE Soil Property Databases;S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+World Atlas of Desertification (WAD);S;S;B;0;Terrestrial;0;0;0;1;1;0;0;0;0;0;0;0;0;Not applies;N
+World Atlas of Desertification (WAD) - Aridity;S;S;B;0;Terrestrial;0;0;0;1;1;0;0;0;0;0;0;0;0;Not applies;N
+World Dryland Areas;S;S;T;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+World Ecosystems;S;S;T;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+World Soil Information Service  (WoSIS);S;S;B;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Not applies;N
+World Terrestrial Ecosystems;S;S;T;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Mammals;N
+World's Intact Large Mammal Assemblages;S;S;B;I;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Mammals;N
+World's Intact Large Mammal Assemblages (update);S;S;B;I;Terrestrial;1;0;0;1;1;0;0;0;0;0;0;0;0;Mammals;N
+WWF Global 200 Terrestrial Ecoregions;S;S;T;0;Terrestrial;0;0;1;1;1;0;0;0;0;0;0;0;0;Plants;N
+Forest Carbon Flux ;T;S,B;T;0;Terrestrial;0;1;0;1;1;0;0;0;0;0;0;0;0;Plants;Y
