@@ -1,2 +1,2 @@
 # DynBiodivMon
-Data and code for the paper Towards Dynamic Biodiversity Monitoring
+Data, code and figures for the paper "Monitoring ecosystem function through species interaction networks" submited to the special Issue "Network ecology in the Anthropocene" in Journal of Applied Ecology.
